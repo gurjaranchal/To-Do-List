@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App]
+#  TO DO List
+This Web - App is made by using React JS.
 
 ## Available Scripts
 
